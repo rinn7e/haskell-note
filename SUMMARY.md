@@ -7,5 +7,5 @@
 
 ## Internal <a id="internal-2"></a>
 
-* [ចំណងជើង](internal-2/untitled.md)
+* [Untitled](internal-2/untitled.md)
 
